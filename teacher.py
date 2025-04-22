@@ -3,9 +3,9 @@ import json
 
 class card:
     def __init__(self, question, answer):
-        self.enter = enter
+        self.enter = x
 
-        self.enter1 = 
+        self.enter1 = y
 
     def display_info(self):
         return f"{self.enter} {self.enter1}"
